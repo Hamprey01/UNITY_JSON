@@ -1,0 +1,16 @@
+{
+  "student": [
+    {
+      "Name": "Aj Kirk Humphrey D. Rejas",
+      "Age": 21,
+      "Favorite Quotes": "Let the hard trial make you improve"
+    }
+  ],
+  "student_schoolInfo": [
+    {
+      "Class Section": "BSIT 3B",
+      "Section Code": "T230",
+      "Buksu Email": "2001104028@student.buksu.edu.ph"
+    }
+  ]
+}
